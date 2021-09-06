@@ -1,0 +1,14 @@
+        Amiral Battı Oyunumuza Hoş geldiniz.
+
+*Kurallar
+
+1)Her oyuncu sırayla 1 adet atış yapacaktır.
+2)İsabetli atış yapan oyuncu 1 atış hakkı daha kazanabilir.
+3)Rakip oyuncunun Amiral gemisini batıran oyunu kazanır.
+
+
+*Gemiler
+
+1)Amiral Gemisi(4 birim)
+2)Kruvazör(3 birim)
+3)Mihrap(2 birim)
